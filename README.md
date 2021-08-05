@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there!
 
+I'm a ISA certified arborist and data science student.
+
+- I'm currently attending a Master's of Environmental Data Science Program at the Bren School of Environmental Science and Management at UCSB. 
+- 
 <!--
 **cboyajian/cboyajian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
