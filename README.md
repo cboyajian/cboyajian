@@ -1,10 +1,11 @@
 ### Hi there!
 
-I'm a ISA certified arborist and data science graduate student. 
+I'm a ISA certified arborist and trained environmental data scientist. 
 
-- 🔭 I'm currently a candidate for a Master's of Environmental Data Science at the Bren School of Environmental Science and Management at UC Santa Barbara
-- 🌱 I'm currently learning: R and Python
+- 🔭 I'm currently an Urban Forestry Data Scientist in the Urabn Forestry Management Plan team at Dudek in Pasadena, CA
+- 🌱 I'm currently learning new baking recipes
 - 🦈 Previously I worked in Los Angeles in urban forestry at Koreatown Youth and Community Center and TreePeople
+- 😄 Pronouns: she/her
 - ✨ Fun fact: I have a cross-eyed cat named Olive
 
 <!--
