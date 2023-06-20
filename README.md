@@ -2,9 +2,9 @@
 
 I'm a ISA certified arborist and trained environmental data scientist. 
 
-- 🔭 I'm currently an Urban Forestry Data Scientist in the Urabn Forestry Management Plan team at Dudek in Pasadena, CA
+- 🔭 I'm currently an Urban Forestry Data Scientist in the Urban Forestry Management Plan team at Dudek in Pasadena, CA
 - 🌱 I'm currently learning new baking recipes
-- 🦈 Previously I worked in Los Angeles in urban forestry at Koreatown Youth and Community Center and TreePeople
+- 🦈 Previously I worked in Los Angeles in urban forestry nonprofit management
 - 😄 Pronouns: she/her
 - ✨ Fun fact: I have a cross-eyed cat named Olive
 
