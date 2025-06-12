@@ -3,7 +3,6 @@
 I'm a ISA certified arborist and trained environmental data scientist. 
 
 - 🔭 I'm currently working as an urban forestry data analysis and technical expert for the Office of Forest Management for the City of Los Angeles
-- 🌱 I'm currently learning new baking recipes
 - 🦈 Previously I worked in Los Angeles in urban forestry nonprofit management and as an urban forestry data scientist for an environmental consultant
 - 😄 Pronouns: she/her
 - ✨ Fun fact: I have a cross-eyed cat named Olive
